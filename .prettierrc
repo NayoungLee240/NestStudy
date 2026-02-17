@@ -4,5 +4,5 @@
   "endOfLine": "auto",
   "objectWrap": "collapse",
   "jsxBracketSameLine": true,
-  "printWidth": 140
+  "printWidth": 85
 }
